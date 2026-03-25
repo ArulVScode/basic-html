@@ -4,7 +4,7 @@
 
 <p align="center">
 
-&#x20; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" alt="HTML Logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" alt="HTML Logo"/>
 
 </p>
 
