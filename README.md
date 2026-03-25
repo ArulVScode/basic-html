@@ -1,4 +1,4 @@
-\# 🌐 HTML Learning Journey (0 → 100)
+# 🌐 HTML Learning Journey (0 → 100)
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-Welcome to my journey of learning \*\*HTML from scratch to advanced level\*\* 🚀
+Welcome to my journey of learning **HTML from scratch to advanced level** 🚀
 
 This repository contains all my practice, projects, and progress while mastering HTML.
 
 
 
-\---
+---
 
 
 
-\## 📚 About This Repository
+## 📚 About This Repository
 
 
 
-This repo is created to document my learning process in HTML, starting from \*\*basic concepts\*\* to more advanced implementations.
+This repo is created to document my learning process in HTML, starting from **basic concepts** to more advanced implementations.
 
 
 
@@ -32,139 +32,139 @@ This repo is created to document my learning process in HTML, starting from \*\*
 
 
 
-\* Understand the fundamentals of HTML
+* Understand the fundamentals of HTML
 
-\* Build structured and semantic web pages
+* Build structured and semantic web pages
 
-\* Practice real-world mini projects
+* Practice real-world mini projects
 
-\* Prepare for web development (Frontend / Fullstack)
+* Prepare for web development (Frontend / Fullstack)
 
 
 
-\---
+---
 
 
 
-\## 🧠 What I’ve Learned
+## 🧠 What I’ve Learned
 
 
 
-\### ✅ Basic Level
+### ✅ Basic Level
 
 
 
-\* HTML Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
+* HTML Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
 
-\* Headings \& Paragraphs
+* Headings \& Paragraphs
 
-\* Text Formatting
+* Text Formatting
 
-\* Links \& Images
+* Links \& Images
 
 
 
-\### ⚙️ Intermediate Level
+### ⚙️ Intermediate Level
 
 
 
-\* Lists (Ordered \& Unordered)
+* Lists (Ordered \& Unordered)
 
-\* Tables
+* Tables
 
-\* Forms \& Input Types
+* Forms \& Input Types
 
-\* Semantic HTML (`<header>`, `<footer>`, `<section>`, etc.)
+* Semantic HTML (`<header>`, `<footer>`, `<section>`, etc.)
 
 
 
-\### 🚀 Advanced Level
+### 🚀 Advanced Level
 
 
 
-\* HTML5 Features
+* HTML5 Features
 
-\* Multimedia (Audio, Video)
+* Multimedia (Audio, Video)
 
-\* SEO Basics
+* SEO Basics
 
-\* Accessibility (ARIA)
+* Accessibility (ARIA)
 
 
 
-\---
+---
 
 
 
-\## 💻 Mini Projects
+## 💻 Mini Projects
 
 
 
-\* 🔹 Personal Profile Page
+* 🔹 Personal Profile Page
 
-\* 🔹 Simple Landing Page
+* 🔹 Simple Landing Page
 
-\* 🔹 Contact Form
+* 🔹 Contact Form
 
-\* 🔹 Portfolio Layout
+* 🔹 Portfolio Layout
 
 
 
-\---
+---
 
 
 
-\## 🎯 Progress Tracker
+## 🎯 Progress Tracker
 
 
 
-\* \[x] Basic HTML
+* [x] Basic HTML
 
-\* \[x] Intermediate HTML
+* [x] Intermediate HTML
 
-\* \[ ] Advanced HTML
+* [x] Advanced HTML
 
-\* \[ ] Real-world Projects
+* [x] Real-world Projects
 
 
 
-\---
+---
 
 
 
-\## 🛠️ Tools Used
+## 🛠️ Tools Used
 
 
 
-\* VS Code
+* VS Code
 
-\* Browser (Chrome)
+* Browser (Chrome)
 
-\* Git \& GitHub
+* Git & GitHub
 
 
 
-\---
+---
 
 
 
-\## 📈 Future Plan
+## 📈 Future Plan
 
 
 
-\* Learn CSS 🎨
+* Learn CSS 🎨
 
-\* Learn JavaScript ⚡
+* Learn JavaScript ⚡
 
-\* Build Full Website 🌍
+* Build Full Website 🌍
 
 
 
-\---
+---
 
 
 
-\## 🤝 Contributing
+## 🤝 Contributing
 
 
 
@@ -172,25 +172,25 @@ This is a personal learning repository, but suggestions are always welcome!
 
 
 
-\---
+---
 
 
 
-\## ⭐ Support
+## ⭐ Support
 
 
 
-If you like this repo, don’t forget to give it a \*\*star ⭐\*\*!
+If you like this repo, don’t forget to give it a **star ⭐**!
 
 
 
-\---
+---
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author Muh. Asrul Mulis
 
-
+## TimeLine 2 Days
 
 Created with passion by \*\*MUH. ASRUL MULIS\*\*
 
