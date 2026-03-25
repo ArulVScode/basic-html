@@ -188,11 +188,11 @@ If you like this repo, don’t forget to give it a **star ⭐**!
 
 
 
-## 👨‍💻 Author Muh. Asrul Mulis
+## 👨‍💻 Author
 
 ## TimeLine 2 Days
 
-Created with passion by \*\*MUH. ASRUL MULIS\*\*
+Created with passion by **MUH. ASRUL MULIS**
 
 
 
